@@ -8,9 +8,9 @@ body {
   color: #fff;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
   min-height: 100vh;
   text-align: center;
+  justify-content: space-between;
 }
 
 header {
@@ -21,9 +21,6 @@ header {
 footer {
   background-color: #24a;
   box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.3);
-}
-
-main {
 }
 
 button {
